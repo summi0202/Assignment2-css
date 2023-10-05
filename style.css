@@ -1,0 +1,185 @@
+.bor1{
+    border: 3px solid yellow;
+    background-image: url(photo3-1531315630201-bb15abeb1653.avif);
+}
+
+.a2 {
+    display: flex;
+    flex-wrap: nowrap;
+    
+}
+
+.bor {
+    border: 3px solid rgb(148, 243, 148);
+    
+}
+.dhaba {
+    font-style: italic;
+    border: 6px solid red;
+    background-color: black;
+    color: white;
+    width: 300px;
+    height: 100px;
+    border-radius: 40px;
+    padding: 2%;
+    padding-bottom: 2%;
+    margin-left: 5px;
+    display: inline-block;
+    opacity: 0.7;
+}
+/*------------------------------------------------home------------------------------------------------- */
+.home {
+
+    font-style: italic;
+    border: 6px solid red;
+    background-color: black;
+    color: white;
+    width: 350px;
+    height: 30px;
+    border-radius: 25px;
+    text-align: center;
+    display: inline-block;
+    margin-top: 30px;
+    padding-top: 2%;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    margin-left: -110px;
+    opacity: 0.7;
+    
+}
+
+.tab2 {
+    font-style: italic;
+    border: 6px solid red;
+    background-color: black;
+    color: white;
+    width: 350px;
+    height: 150px;
+    border-radius: 30px;
+    padding-bottom: 10px;
+    margin-left: 180px;
+    text-align: center;
+    display: inline-block;
+    opacity: 0.7;
+}
+.f2{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.f {
+    border: 7PX dashed red;
+    width: 400px;
+    height: 600px;
+    text-align: center;
+    color: red;
+    background-color: white;
+    opacity: 0.9;
+}/* ----------------------------------------------circle-------------------------------------------- */
+.offer {
+    border-radius: 50%;
+    border: 5px solid rgb(48, 90, 92);
+    background-color: rgb(12, 137, 154);
+    height: 300px;
+    width: 300px;
+    
+    text-align: center;
+    font-weight: bolder;
+    font-style: italic;
+    
+}
+/* ---------------------------------------------MENU--------------------------------------------------- */
+.menu {
+    font-style: italic;
+    border: 6px solid red;
+    background-color: black;
+    color: white;
+    width: 400px;
+    height: 50px;
+    border-radius: 40px;
+    text-align: center;
+    font-weight: bolder;
+    margin-left: 400px;
+    padding-top: 30px;
+    display: inline-block;
+    opacity: 0.7;
+}
+/*------------------------------------------ main----------------------------------------------------- */
+.main1 {
+    justify-content: space-evenly;
+    margin-left: 40px;
+}
+/*--------------------------------------------- starter-------------------------------------------------- */
+.starters {
+    height: 300px;
+    width: 300px;
+    background-color: rgb(15, 203, 210);
+    text-align: center;
+    border-radius: 20px;
+    color: rgb(6, 46, 91);
+    font-weight: bolder;
+    display: inline-block;
+    margin: 40px;
+}
+/*------------------------------------------ south indian------------------------------------------------ */
+.si {
+    height: 300px;
+    width: 300px;
+    background-color: rgb(15, 203, 210);
+    text-align: center;
+    border-radius: 20px;
+    color: rgb(6, 46, 91);
+    font-weight: bolder;
+    display: inline-block;
+    margin: 40px;
+}
+/* -----------------------------------------Indian kitchen------------------------------------------------- */
+.IK {
+    height: 300px;
+    width: 300px;
+    background-color: rgb(15, 203, 210);
+    text-align: center;
+    border-radius: 20px;
+    color: rgb(6, 46, 91);
+    font-weight: bolder;
+    display: inline-block;
+    margin: 40px;
+}
+/* -------------------------------------------Rice and Salad------------------------------------------------ */
+.RS {
+    height: 300px;
+    width: 300px;
+    background-color: rgb(15, 203, 210);
+    text-align: center;
+    border-radius: 20px;
+    color: rgb(6, 46, 91);
+    font-weight: bolder;
+    display: inline-block;
+    margin: 40px;
+}
+/*--------------------------------------------- Tandoori Bread----------------------------------------------- */
+.TB {
+    height: 300px;
+    width: 300px;
+    background-color: rgb(15, 203, 210);
+    text-align: center;
+    border-radius: 20px;
+    color: rgb(6, 46, 91);
+    font-weight: bolder;
+    display: inline-block;
+    margin: 40px;
+}
+/*-------------------------------------------- Beverages and other-------------------------------------------- */
+.BO {
+    height: 300px;
+    width: 300px;
+    background-color: rgb(15, 203, 210);
+    text-align: center;
+    border-radius: 20px;
+    color: rgb(6, 46, 91);
+    font-weight: bolder;
+    display: inline-block;
+    margin: 40px;
+}
